@@ -1,0 +1,36 @@
+@import url("style.css");
+@import url("colors.css");
+
+div.entry-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+    width: 95vw;
+    border-radius: 1rem;
+    background-color: #3d3846;
+    border: #613583 solid 0.5rem;
+    color: #613583;
+}
+div.e-box {
+    padding: 1vh 1vw;
+    margin: auto;
+    text-align: center;
+    background-color: inherit;
+    font-family: Nunito;
+}
+div.e-box h3 {
+    font-size: 3vw;
+}
+div.e-box h4 {
+    background-color: inherit;
+}
+div.e-box p {
+    color: #dc8add;
+    font-size: 1vw;
+}
+div.e-box p a {
+    color: #813d9c;
+}
+div.e-box p a:hover {
+    color: #dc8add;
+}

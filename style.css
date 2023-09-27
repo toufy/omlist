@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa|Nunito&effect=emboss");
+
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #241f31;
+    user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+}
+
+div.body-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10vh;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+div.p-header {
+    font-family: Comfortaa;
+    font-size: 3vw;
+    background-color: #3d3846;
+    color: #dc8add;
+    padding: 1vh 1vw;
+    margin: 10vh 10vw;
+    border-radius: 2rem;
+    text-align: center;
+}
+h1 {
+    color: inherit;
+    background-color: inherit;
+    margin: auto;
+    padding: 0.5rem;
+}
+p {
+    color: inherit;
+    background-color: inherit;
+    font-size: 1vw;
+    margin: auto;
+    padding: 0.5rem;
+}
+.p-header p {
+    font-family: inherit;
+}
+
+div.box-wrapper {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    margin-top: 10vh;
+    width: 100%;
+}
+
+div.p-box {
+    background-color: #3d3846;
+    padding: 10vh 5vw;
+    margin: auto;
+    border-radius: 1rem;
+    text-align: center;
+    border: #613583 solid 0.5rem;
+    color: #613583;
+}
+h3 {
+    font-family: Nunito;
+    font-size: 5vw;
+    color: inherit;
+    background-color: inherit;
+}
+div.p-box:hover {
+    border: #dc8add solid 0.5rem;
+    color: #dc8add;
+}
+
+div.footer {
+    position: fixed;
+    bottom: 0;
+    padding: 1rem;
+    background-color: #dc8add;
+    color: #3d3846;
+    width: 100%;
+    font-family: Comfortaa;
+    font-size: 2vw;
+    text-align: center;
+}
+h6 {
+    background-color: inherit;
+}

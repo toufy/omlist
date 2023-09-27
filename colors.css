@@ -1,0 +1,131 @@
+div.p-header.action p {
+    color: #f9f06b;
+}
+div.entry-wrapper.action {
+    border: #f9f06b solid 0.5rem;
+    color: #f9f06b;
+}
+div.e-box.links.action p {
+    color: #f9f06b;
+}
+
+div.p-header.adventure p {
+    color: #57e389;
+}
+div.entry-wrapper.adventure {
+    border: #57e389 solid 0.5rem;
+    color: #57e389;
+}
+div.e-box.links.adventure p {
+    color: #57e389;
+}
+
+div.p-header.comedy p {
+    color: #ffbe6f;
+}
+div.entry-wrapper.comedy {
+    border: #ffbe6f solid 0.5rem;
+    color: #ffbe6f;
+}
+div.e-box.links.comedy p {
+    color: #ffbe6f;
+}
+
+div.p-header.crime p {
+    color: #9a9996;
+}
+div.entry-wrapper.crime {
+    border: #9a9996 solid 0.5rem;
+    color: #9a9996;
+}
+div.e-box.links.crime p {
+    color: #9a9996;
+}
+
+div.p-header.drama p {
+    color: #c64600;
+}
+div.entry-wrapper.drama {
+    border: #c64600 solid 0.5rem;
+    color: #c64600;
+}
+div.e-box.links.drama p {
+    color: #c64600;
+}
+
+div.p-header.fantasy p {
+    color: #99c1f1;
+}
+div.entry-wrapper.fantasy {
+    border: #99c1f1 solid 0.5rem;
+    color: #99c1f1;
+}
+div.e-box.links.fantasy p {
+    color: #99c1f1;
+}
+
+div.p-header.historical p {
+    color: #cdab8f;
+}
+div.entry-wrapper.historical {
+    border: #cdab8f solid 0.5rem;
+    color: #cdab8f;
+}
+div.e-box.links.historical p {
+    color: #cdab8f;
+}
+
+div.p-header.horror p {
+    color: #a51d2d;
+}
+div.entry-wrapper.horror {
+    border: #a51d2d solid 0.5rem;
+    color: #a51d2d;
+}
+div.e-box.links.horror p {
+    color: #a51d2d;
+}
+
+div.p-header.romance p {
+    color: #ed333b;
+}
+div.entry-wrapper.romance {
+    border: #ed333b solid 0.5rem;
+    color: #ed333b;
+}
+div.e-box.links.romance p {
+    color: #ed333b;
+}
+
+div.p-header.scifi p {
+    color: #f6f5f4;
+}
+div.entry-wrapper.scifi {
+    border: #f6f5f4 solid 0.5rem;
+    color: #f6f5f4;
+}
+div.e-box.links.scifi p {
+    color: #f6f5f4;
+}
+
+div.p-header.thriller p {
+    color: #e5a50a;
+}
+div.entry-wrapper.thriller {
+    border: #e5a50a solid 0.5rem;
+    color: #e5a50a;
+}
+div.e-box.links.thriller p {
+    color: #e5a50a;
+}
+
+div.p-header.western p {
+    color: #986a44;
+}
+div.entry-wrapper.western {
+    border: #986a44 solid 0.5rem;
+    color: #986a44;
+}
+div.e-box.links.western p {
+    color: #986a44;
+}
