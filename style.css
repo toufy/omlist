@@ -94,3 +94,28 @@ div.footer {
 h6 {
     background-color: inherit;
 }
+
+@media screen and (max-width: 768px) {
+    div.body-wrapper {
+        margin-bottom: 2vh;
+    }
+    div.p-header {
+        font-size: 2vw;
+        padding: 1vh 1vw;
+        margin: 5vh 5vw;
+        border-radius: 1rem;
+        text-align: center;
+    }
+    div.box-wrapper {
+        flex-direction: column;
+        margin-top: 0;
+    }
+    div.p-box {
+        padding: 5vh 15vw;
+        margin: 1rem;
+        border: #613583 solid 0.25rem;
+    }
+    div.footer {
+        padding: 0.5rem;
+    }
+}
