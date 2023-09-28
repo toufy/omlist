@@ -34,3 +34,20 @@ div.e-box p a {
 div.e-box p a:hover {
     color: #dc8add;
 }
+
+@media screen and (max-width: 768px) {
+    div.entry-wrapper {
+        margin: 1rem;
+        width: 90vw;
+    }
+    div.e-box h3 {
+        font-size: 4vw;
+    }
+    div.e-box h4 {
+        font-size: 2vw;
+    }
+    div.e-box p {
+        color: #dc8add;
+        font-size: 1.5vw;
+    }
+}
